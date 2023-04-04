@@ -1,8 +1,8 @@
-package L3;
+package T3;
 
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.util.Iterator;
+
 public class CandyMachine {
     private static final double[] coinValues = {0.05, 0.10, 0.25, 1.00};
 
